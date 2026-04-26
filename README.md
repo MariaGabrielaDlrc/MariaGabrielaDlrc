@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  🏆 Hackathon Winner • 🚀 Founder @ Alumbra • 🧠 AI in Progress • 🔐 Cybersecurity Knowledge • 🌎 English C1
+  🏆 Hackathon Winner • 🚀 Founder @ Alumbra • 🧠 AI in Progress • 🔐 AI Knowledge • 🌎 English B2 
 </p>
 
 ---
@@ -69,8 +69,8 @@ I specialize in crafting **intuitive, visually appealing interfaces**, while als
 ---
 
 ## 🌎 Additional Info
-🌐 English: **C1 (Advanced)**  
-💡 Interests: **AI • Cybersecurity • Backend Development**  
+🌐 English: **B2 (Advanced)**  
+💡 Interests: **AI • API • FrontEnd Development • Backend Development**  
 🚀 Always learning, always building  
 
 ---
@@ -78,7 +78,7 @@ I specialize in crafting **intuitive, visually appealing interfaces**, while als
 ## 📫 Contact
 <p>
   📧 <strong>mgdlrc@gmail.com</strong><br>
-  💼 <strong>LinkedIn:</strong> tu-linkedin
+  💼 <strong>LinkedIn:</strong> www.linkedin.com/in/maría-gabriela-de-los-ríos-camacho-a93643364
 </p>
 
 ---
