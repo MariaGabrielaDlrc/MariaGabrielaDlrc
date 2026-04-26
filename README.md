@@ -62,7 +62,7 @@ At the same time, I have **backend skills** that allow me to build complete, fun
 
 ## 📫 Contact
 📧 **mgdlrc@gmail.com**  
-💼 **LinkedIn:** tu-linkedin
+💼 **LinkedIn:** www.linkedin.com/in/maría-gabriela-de-los-ríos-camacho-a93643364
 
 ---
 ## Curriculum
