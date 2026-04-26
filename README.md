@@ -1,29 +1,71 @@
-# Hi, I'm Maria 👋
+<h1 align="center">Hi, I'm Maria 👋</h1>
 
-# 🧠 Professional Profile
-I am a Systems Engineering student specializing in web application development, with a strong interest in design and user experience. I specialize in front-end development, creating modern, intuitive, and visually appealing interfaces, but I also have back-end skills that allow me to develop comprehensive, functional, and well-structured solutions. I am passionate about transforming ideas into digital products, combining design, logic, and technology to build applications that not only work well but also look good and are easy to use.
----
-
-# 🏆 Achievements
-Participation in the International Youth Robotics Competition
-I participated in this competition as the lead programmer of the prototype, being responsible for the design, development, and implementation of its programming logic.
-
-Winner of the Barranqui-IA Hackathon
-Frontend developer responsible for the design and implementation of the project’s user interface, including integration and consumption of APIs to connect frontend functionalities with backend services.
-
-Founder – Alumbra Project
-Creator of the project’s idea and overall vision. Led the development of the MVP, with a primary focus on frontend design and implementation. Alumbra is an AI-powered platform designed to analyze conversations and detect indicators of emotional abuse. I directed the research phase, functional design, and initial technical implementation of the project.
+<p align="center">
+💻 Frontend Developer | 🎨 UI/UX Enthusiast | ⚙️ Backend Skills
+</p>
 
 ---
 
+## 🧠 Professional Profile
+🎓 Systems Engineering student focused on web application development.  
 
-# 🌎 Additional Information
-🌐 English proficiency: Intermediate/Advanced  
-💡 Interest in backend development, AI, and cybersecurity  
-🚀 Constantly growing as a developer  
+I specialize in **frontend development**, creating modern, intuitive, and visually appealing interfaces.  
+At the same time, I have **backend skills** that allow me to build complete, functional, and well-structured applications.  
+
+🚀 I’m passionate about transforming ideas into digital products, combining **design, logic, and technology** to create solutions that are not only efficient, but also engaging and user-friendly.
+
 ---
 
-# 📫 Contact
-📧 mgdlrc@gmail.com
-💼 LinkedIn: tu-linkedin
+## 🏆 Achievements
+
+### 🤖 International Youth Robotics Competition
+- Lead programmer of the prototype  
+- Responsible for system logic, development, and implementation  
+
+### 🧠 Barranqui-IA Hackathon — 🥇 Winner
+- Frontend developer of the project  
+- Designed and implemented the user interface  
+- Integrated APIs to connect frontend with backend services  
+
+### 🌱 Founder — Alumbra Project
+- Creator of the idea and product vision  
+- Led MVP development with focus on frontend  
+- AI-powered platform to detect emotional abuse in conversations  
+- Directed research, UX design, and initial technical implementation  
+
+---
+
+## 💻 Tech Stack
+
+### 🎨 Frontend
+`HTML5` `CSS3` `JavaScript`  
+`Responsive Design` `UI/UX Principles`
+
+### ⚙️ Backend
+`Java` `Firebase` `APIs REST`
+
+### 🗄️ Database
+`MySQL`
+
+### 🛠️ Tools
+`Git` `GitHub` `Postman`  
+`VS Code` `Android Studio` `NetBeans`
+
+---
+
+## 🌎 Additional Information
+🌐 English: Intermediate / Advanced  
+💡 Interests: Backend, AI, Cybersecurity  
+🚀 Constantly learning and building  
+
+---
+
+## 📫 Contact
+📧 **mgdlrc@gmail.com**  
+💼 **LinkedIn:** tu-linkedin
+
+---
+## Curriculum
+https://mariagabriela-portafoliopersonal.netlify.app
+
 
