@@ -1,71 +1,91 @@
 <h1 align="center">Hi, I'm Maria 👋</h1>
 
 <p align="center">
-💻 Frontend Developer | 🎨 UI/UX Enthusiast | ⚙️ Backend Skills
+  💻 <strong>Frontend Developer</strong> • 🎨 <strong>UI/UX Enthusiast</strong> • ⚙️ <strong>Backend Skills</strong>
+</p>
+
+<p align="center">
+  🏆 Hackathon Winner • 🚀 Founder @ Alumbra • 🧠 AI in Progress • 🔐 Cybersecurity Knowledge • 🌎 English C1
 </p>
 
 ---
 
-## 🧠 Professional Profile
-🎓 Systems Engineering student focused on web application development.  
+## 🧠 About Me
+🎓 Systems Engineering student passionate about building **modern web applications**.  
 
-I specialize in **frontend development**, creating modern, intuitive, and visually appealing interfaces.  
-At the same time, I have **backend skills** that allow me to build complete, functional, and well-structured applications.  
+I specialize in crafting **intuitive, visually appealing interfaces**, while also developing **robust backend logic** to create complete and scalable solutions.  
 
-🚀 I’m passionate about transforming ideas into digital products, combining **design, logic, and technology** to create solutions that are not only efficient, but also engaging and user-friendly.
+🚀 I enjoy transforming ideas into **real digital products**, combining **design, technology, and problem-solving** to deliver impactful user experiences.
 
 ---
 
 ## 🏆 Achievements
 
-### 🤖 International Youth Robotics Competition
+✨ **International Youth Robotics Competition**  
 - Lead programmer of the prototype  
-- Responsible for system logic, development, and implementation  
+- Designed and implemented system logic  
 
-### 🧠 Barranqui-IA Hackathon — 🥇 Winner
+🥇 **Barranqui-IA Hackathon Winner**  
 - Frontend developer of the project  
-- Designed and implemented the user interface  
-- Integrated APIs to connect frontend with backend services  
+- Designed UI and integrated APIs with backend  
 
-### 🌱 Founder — Alumbra Project
-- Creator of the idea and product vision  
-- Led MVP development with focus on frontend  
-- AI-powered platform to detect emotional abuse in conversations  
-- Directed research, UX design, and initial technical implementation  
+🌱 **Founder — Alumbra**  
+- Created product vision and MVP  
+- Focused on frontend + UX design  
+- AI platform for detecting emotional abuse  
+- Led research and technical implementation  
 
 ---
 
 ## 💻 Tech Stack
 
 ### 🎨 Frontend
-`HTML5` `CSS3` `JavaScript`  
-`Responsive Design` `UI/UX Principles`
+<p>
+  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
 ### ⚙️ Backend
-`Java` `Firebase` `APIs REST`
+<p>
+  <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-orange?style=for-the-badge&logo=firebase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/API-REST-green?style=for-the-badge"/>
+</p>
 
 ### 🗄️ Database
-`MySQL`
+<p>
+  <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
 ### 🛠️ Tools
-`Git` `GitHub` `Postman`  
-`VS Code` `Android Studio` `NetBeans`
+<p>
+  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman"/>
+  <img src="https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode"/>
+</p>
 
 ---
 
-## 🌎 Additional Information
-🌐 English: B2 
-💡 Interests: Backend, AI, Cybersecurity  
-🚀 Constantly learning and building  
+## 🌎 Additional Info
+🌐 English: **C1 (Advanced)**  
+💡 Interests: **AI • Cybersecurity • Backend Development**  
+🚀 Always learning, always building  
 
 ---
 
 ## 📫 Contact
-📧 **mgdlrc@gmail.com**  
-💼 **LinkedIn:** www.linkedin.com/in/maría-gabriela-de-los-ríos-camacho-a93643364
+<p>
+  📧 <strong>mgdlrc@gmail.com</strong><br>
+  💼 <strong>LinkedIn:</strong> tu-linkedin
+</p>
 
 ---
-## Curriculum
-https://mariagabriela-portafoliopersonal.netlify.app
+
+<p align="center">
+  ⭐ <i>"I don’t just build apps, I design experiences."</i>
+</p>
+
 
 
