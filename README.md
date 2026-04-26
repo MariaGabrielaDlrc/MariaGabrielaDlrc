@@ -54,7 +54,7 @@ At the same time, I have **backend skills** that allow me to build complete, fun
 ---
 
 ## 🌎 Additional Information
-🌐 English: Intermediate / Advanced  
+🌐 English: B2 
 💡 Interests: Backend, AI, Cybersecurity  
 🚀 Constantly learning and building  
 
