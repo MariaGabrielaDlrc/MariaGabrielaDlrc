@@ -1,36 +1,29 @@
-# Hola, soy Maria 👋
+# Hi, I'm Maria 👋
 
-💻 Desarrolladora en formación en Ingeniería de Sistemas, enfocada en la creación de soluciones tecnológicas funcionales, escalables y centradas en el usuario.  
+# 🧠 Professional Profile
+I am a Systems Engineering student specializing in web application development, with a strong interest in design and user experience. I specialize in front-end development, creating modern, intuitive, and visually appealing interfaces, but I also have back-end skills that allow me to develop comprehensive, functional, and well-structured solutions. I am passionate about transforming ideas into digital products, combining design, logic, and technology to build applications that not only work well but also look good and are easy to use.
+---
 
-🚀 Me especializo en el desarrollo de aplicaciones web y sistemas backend, combinando lógica, arquitectura y diseño para construir productos digitales que resuelven problemas reales.  
+# 🏆 Achievements
+Participation in the International Youth Robotics Competition
+I participated in this competition as the lead programmer of the prototype, being responsible for the design, development, and implementation of its programming logic.
 
-🧠 Actualmente trabajo en proyectos que integran bases de datos, automatización e inteligencia aplicada, desarrollando plataformas como sistemas de gestión y soluciones orientadas a optimizar procesos en contextos reales.  
+Winner of the Barranqui-IA Hackathon
+Frontend developer responsible for the design and implementation of the project’s user interface, including integration and consumption of APIs to connect frontend functionalities with backend services.
 
-🎯 Mi enfoque va más allá del código: busco diseñar experiencias claras, eficientes y atractivas, donde la tecnología no solo funcione, sino que aporte valor tangible a las personas y organizaciones.  
-
-⚙️ Stack tecnológico:
-- Java  
-- MySQL  
-- Firebase  
-- Git & GitHub  
-- HTML, CSS, JavaScript  
-
-📈 Me destaco por mi capacidad de análisis, estructuración de soluciones y aprendizaje continuo, adaptándome rápidamente a nuevas tecnologías y retos.  
-
-🔥 Actualmente en constante evolución, construyendo proyectos que reflejan mi crecimiento como desarrolladora y mi compromiso con la excelencia técnica.  
+Founder – Alumbra Project
+Creator of the project’s idea and overall vision. Led the development of the MVP, with a primary focus on frontend design and implementation. Alumbra is an AI-powered platform designed to analyze conversations and detect indicators of emotional abuse. I directed the research phase, functional design, and initial technical implementation of the project.
 
 ---
 
-## 💡 Enfoque profesional
-Construir software no es solo desarrollar funcionalidades, es diseñar soluciones que conecten necesidades reales con tecnología eficiente.
 
+# 🌎 Additional Information
+🌐 English proficiency: Intermediate/Advanced  
+💡 Interest in backend development, AI, and cybersecurity  
+🚀 Constantly growing as a developer  
 ---
 
-## 🚀 Proyección
-Seguir creciendo como desarrolladora, participando en proyectos de alto impacto en áreas como desarrollo backend, inteligencia artificial y plataformas digitales escalables.
-
----
-
-## 📫 Contacto
-- 📧 mgdlrc@gmail.com
+# 📫 Contact
+📧 mgdlrc@gmail.com
+💼 LinkedIn: tu-linkedin
 
